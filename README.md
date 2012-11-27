@@ -3,68 +3,6 @@ Version 1.4
 
 
 
-
-
-
-Revision History
-
-Version
-Date
-Modified By
-Change
-0.1
-August 5, 2010
-Addy Kapur
-Initial draft
-0.2
-Oct 11, 2010
-Addy Kapur
-Updated
-0.3
-Nov 24, 2010
-Addy Kapur
-Added Example
-0.4
-Feb 2, 2011
-Addy Kapur
-Thumbnail
-0.5
-Feb 6, 2011
-Addy Kapur
-Additional Parms
-0.6
-May 7, 2011
-Addy Kapur
-Additional Parms
-0.7
-June 14, 2011
-Addy Kapur
-User Management
-0.8
-June 28, 2011
-Addy Kapur
-EMail Parms
-1.0
-July 7, 2011
-Addy Kapur
-Updated API
-1.1
-Oct 12, 2011
-Addy Kapur
-Added Template
-1.2
-Feb 12, 2012
-Addy Kapur
-Msg History & D/l
-1.3
-May 25, 2012
-Addy Kapur
-Added Contacts
-1.4
-Jun 22, 2012
-Addy Kapur
-Upload Item
-
 TABLE OF CONTENT
 Revision History  1
 Version	1
