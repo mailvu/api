@@ -3,64 +3,6 @@ Version 1.4
 
 
 
-TABLE OF CONTENT
-Revision History  1
-Version	1
-Date	1
-Modified By	1
-Change	1
-Environment	5
-URL	5
-Parameter name	5
-Type	5
-Description	5
-Value	7
-Parameter name	8
-Type	8
-Description	8
-Value	10
-Parameter name	11
-Type	11
-Description	11
-Value	11
-Environment	12
-URL	12
-Parameter name	13
-Type	13
-Description	13
-Parameter name	14
-Type	14
-Description	14
-Parameter name	15
-Type	15
-Description	15
-Parameter name	16
-Type	16
-Description	16
-Parameter name	17
-Type	17
-Description	17
-Parameter name	18
-Description	18
-Parameter name	19
-Type	19
-Description	19
-Parameter name	20
-Description	20
-Environment	22
-URL	22
-Parameter name	22
-Type	22
-Description	22
-Value	23
-Parameter name	24
-Type	24
-Description	24
-Value	24
-Appendix A: Generating a timestamp	26
-Appendix B:Social media icon URLS (or use your own)	26
-Icon	26
-URL	26
 
 1.  Introduction
 
